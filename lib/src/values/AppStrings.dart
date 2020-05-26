@@ -4,4 +4,6 @@ class AppStrings {
   static const String Singin_to_cont = 'Sing in to Continue';
   static const String email = 'Email';
   static const String password = 'Password';
+  static const String login = 'Login';
+  static const String forget = 'Forget';
 }

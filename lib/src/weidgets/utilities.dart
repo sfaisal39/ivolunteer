@@ -10,7 +10,17 @@ final kLabelStyle = TextStyle(
   fontWeight: FontWeight.bold,
   fontFamily: 'Calibri',
 );
-
+final textStyle = TextStyle(
+  color: Colors.white,
+  fontWeight: FontWeight.normal,
+  fontFamily: 'Calibri',
+);
+final textStyleLogin = TextStyle(
+  fontSize: 17.0,
+  color: Colors.white,
+  fontWeight: FontWeight.bold,
+  fontFamily: 'Calibri',
+);
 final kBoxDecorationStyle = BoxDecoration(
   color: Color(0xFFFFFFFF),
   borderRadius: BorderRadius.circular(6.0),

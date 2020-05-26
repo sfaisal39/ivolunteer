@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
           primarySwatch: Colors.blue,
           primaryColor: AppColors.PRIMARY_COLOR_DARK),
       debugShowCheckedModeBanner: false,
-      home: LoginPage(),
+      home:  new Scaffold(body:  LoginPage()),
     );
   }
 }
